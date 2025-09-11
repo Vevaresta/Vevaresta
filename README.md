@@ -1,5 +1,6 @@
 ## Servus 👋
-My name is Nikola Krpan and I'm a application developer. I'm from Croatia, living in Nürnberg/Germany. I love to explore and learn about new things.
+My name is Nikola Krpan and I'm a application developer. I'm from Croatia, living in Nürnberg/Germany. I love to explore and constantly learn about new technologies along the way.
+I love developing Full-Stack Applications with C#/ASP.NET Core and Typescript/Angular.
 <!--
 **Vevaresta/Vevaresta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
